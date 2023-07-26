@@ -1,4 +1,4 @@
-<span style="font-size:40px; font-weight: bold;font-family: Georgia">welcome！</span>
+<h2>welcome！</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangxudongcc&show_icons=true&theme=dracula&locale=cn)
 
